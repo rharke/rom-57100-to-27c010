@@ -10,4 +10,4 @@ I HAVE NOT TESTED THIS YET. Use at your own risk.
 
 ## Render
 
-![Render of PCB](render.png)
+![Render of PCB](render1.png)
