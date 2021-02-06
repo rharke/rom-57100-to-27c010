@@ -277,7 +277,7 @@
     )
   )
 
-  (module footprint:DIP-32_W15.24mm_Headers (layer B.Cu) (tedit 601B4E9C) (tstamp 601D0E5E)
+  (module footprint:DIP-32_W15.24mm_Headers (layer B.Cu) (tedit 601E127A) (tstamp 601D0E5E)
     (at 139.7 48.26 180)
     (descr "32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket")
     (tags "THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket")
@@ -385,7 +385,7 @@
       (rotate (xyz 0 0 0))
     )
     (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x16_P2.54mm_Vertical.wrl
-      (offset (xyz 15.62 0 0))
+      (offset (xyz 15.24 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
